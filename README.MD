@@ -14,5 +14,6 @@ cd GigaAM/
 python3 -m venv gigaam
 ### Переходим в данное окружение
 source  gigaam/bin/activate
+### Заменяем setup.py
 ### Устанавливаем зависимости
 pip install -e .
