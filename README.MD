@@ -17,3 +17,5 @@ source  gigaam/bin/activate
 ### Заменяем setup.py
 ### Устанавливаем зависимости
 pip install -e .
+# Выходим из вирутального окружения
+deactivate
